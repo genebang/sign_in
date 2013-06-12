@@ -1,0 +1,14 @@
+development:
+  host: localhost
+  adapter: postgresql
+  database: sign_in_development
+
+test:
+  host: localhost
+  adapter: postgresql
+  database: sign_in_test
+
+production:
+  host: localhost
+  adapter: postgresql
+  database: sign_in_production
